@@ -1,0 +1,89 @@
+*{
+margin-left: 8px;
+margin-right: 8px;
+margin-top: 10px;
+margin-bottom: 5px;
+background-color: #fbf5f5;
+}
+
+.navbar{
+	width: 80%;
+	position: sticky;
+}
+.navbar ul{
+	color: white;
+	float: right;
+	background-color: maroon;
+}
+.navbar ul li {
+	background-color: maroon;
+	background-size: width 100%;
+	display: inline-block;
+	position: sticky;
+	position: -webkit-sticky;
+}
+.navbar ul li a{
+	font-family: Verdana;
+	font-size: 20px;
+	background-color: maroon;
+	color: white;
+	display: block;
+	text-decoration: none;
+}
+.navbar ul li a:hover{
+	text-decoration: underline;
+	color: yellow;
+	font-size: 28px;
+}
+.logo a
+{
+	font-weight: bold;
+	font-family: Geneva;
+	text-align: center;
+	font-size: 34px;
+	text-decoration: none;
+	color: black;
+	word-spacing: 30px;
+}
+.logo a:hover{
+	font-size: 38px;
+	color: darkblue;
+}
+.ads img{
+	width: 15%;
+	height: 10%;
+
+}
+.adsleftside{
+	
+	}
+.adsrightside{
+	float: right;
+	}
+article{
+	width: 36em;
+	margin: 0 auto;
+	max-width: 100%;
+	line-height: 1.5;
+	font-size: 18px;
+	text-align: justify-all;
+	}
+.content a button{
+	color: white;
+	background-color: green;
+	font-size: 20px;
+}
+.content a button:hover{
+	font-size: 24;
+	color: yellow;
+}
+footer{
+	color: lightgray;
+}
+.end h1{
+	background-color: black;
+	text-align: center;
+}
+.icon{
+	text-align: center;
+}

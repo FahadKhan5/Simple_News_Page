@@ -1,0 +1,30 @@
+.column {
+  float: left;
+  margin-left: 2%;
+  width: 30%;
+}
+.row{
+	margin-top: 7%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  display: table;
+  clear: both;
+}
+.article section h1{
+	font-size: 28px;
+	text-align: center;
+	font-family: geneva;
+}
+.columnb{
+	float: left;
+	width: 48%
+}
+.rowb:after {
+	display: table;
+	clear: both;
+}
+.article section img{
+	margin-left: 23%;
+}
